@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MM1C-POA.iml" filepath="$PROJECT_DIR$/MM1C-POA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1_Shapes/TD1_Shapes.iml" filepath="$PROJECT_DIR$/TD1_Shapes/TD1_Shapes.iml" />
+    </modules>
+  </component>
+</project>
