@@ -1,6 +1,6 @@
 package fr.parisnanterre.miage.poa.td1.shapes;
 
-import api.Translatable2D;
+import fr.parisnanterre.miage.poa.td1.api.Translatable2D;
 
 public class Point2D extends Shape2D implements Translatable2D {
     private int x;

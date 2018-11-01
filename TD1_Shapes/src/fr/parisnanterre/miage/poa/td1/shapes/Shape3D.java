@@ -1,6 +1,6 @@
 package fr.parisnanterre.miage.poa.td1.shapes;
 
-import api.Mesurable3D;
+import fr.parisnanterre.miage.poa.td1.api.Mesurable3D;
 
 public abstract class Shape3D extends Shape implements Mesurable3D {
 
